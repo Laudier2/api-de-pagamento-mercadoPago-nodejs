@@ -15,7 +15,7 @@ export const crearorden = async (req, res) => {
                 unit_price: 1.5
             }
         ],
-        notification_url: "https://6cc3-2804-14c-bf3a-9071-50b6-2eb5-f64f-746.ngrok.io"
+        notification_url: "https://pagamentocommercadopago.herokuapp.com/"
     };
     //let compra = preference.items[0] == preference.items.currency_id ? preference.items[0] : preference.items[4];
     //console.log(compra)
